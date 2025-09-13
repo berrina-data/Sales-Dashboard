@@ -51,7 +51,7 @@ This project is an **Excel Dashboard** built to analyze and visualize sales perf
 ---
 
 ## 📂 Files in this Repository  
-- `Vrinda_Store_Annual_Report_2022.xlsx` → The Excel dashboard file.  
+- https://github.com/berrina-data/Sales-Dashboard/blob/main/SALES%20DASHBOARD%20PROJECT%201.xlsx → The Excel dashboard file.  
 - `README.md` → Project documentation.  
 - (Optional) `screenshot.png` → Preview of the dashboard.  
 
