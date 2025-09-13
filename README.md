@@ -57,8 +57,8 @@ This project is an **Excel Dashboard** built to analyze and visualize sales perf
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot](screenshot.png)  
-*(Replace with your actual uploaded screenshot file name in the repo)*  
+https://github.com/berrina-data/Sales-Dashboard/blob/main/SalesReport.jpg  
+
 
 ---
 
